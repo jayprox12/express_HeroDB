@@ -77,10 +77,7 @@ For Jesse Quick, click the delete link
 Verify Jesse Quick is no longer displayed in the User List table
 
 
-
-
-
-
+<br /><br /><br /><br />
 
 
 
