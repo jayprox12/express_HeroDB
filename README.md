@@ -39,7 +39,7 @@ To install on a specific platform, Refer to https://docs.mongodb.com/v3.0/tutori
 <br />
 You can start entering data into the HeroDB on the front-end side. To get started, go to: http://localhost:3000 and enter away values to test it out.
 
-
+<br />
 Examples:
 
  Add User:
