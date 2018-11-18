@@ -27,8 +27,6 @@ To install on a specific platform, Refer to https://docs.mongodb.com/v3.0/tutori
 
 - A node_modules folder is created in the express_HeroDB folder, and the Express, MongoDB, and Frisby modules are installed in a subfolder of node_modules.
 
-- Execute the following: npm install -g jasmine-node. Verify jasmine-node is installed in /usr/local/bin/jasmine-node
-
 - In the express_HeroDB directory, create a folder named "data"
 
 - Start server: npm start
@@ -77,6 +75,13 @@ Verify The Flash info has been changed with the info of Jesse Quick
 For Jesse Quick, click the delete link
 
 Verify Jesse Quick is no longer displayed in the User List table
+
+
+
+
+
+
+
 
 
 #####Delete Database (To have a clean database)
